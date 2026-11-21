@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+  <section id="service.denon.volumeosd">
+    <category id="general" label="32000">
+      <group id="1">
+        <setting id="host" type="string" label="32001" help="32002">
+          <level>0</level>
+          <default></default>
+          <constraints>
+            <allowempty>true</allowempty>
+          </constraints>
+          <control type="edit" format="string">
+            <heading>32001</heading>
+          </control>
+        </setting>
+        <setting id="show" type="integer" label="32007" help="32010">
+          <level>0</level>
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="32008">0</option>
+              <option label="32009">1</option>
+            </options>
+          </constraints>
+          <control type="spinner" format="string"/>
+        </setting>
+        <setting id="scale" type="integer" label="32003">
+          <level>0</level>
+          <default>0</default>
+          <constraints>
+            <options>
+              <option label="32004">0</option>
+              <option label="32005">1</option>
+            </options>
+          </constraints>
+          <control type="spinner" format="string"/>
+        </setting>
+        <setting id="duration" type="number" label="32006">
+          <level>0</level>
+          <default>2.0</default>
+          <constraints>
+            <minimum>0.5</minimum>
+            <step>0.5</step>
+            <maximum>10</maximum>
+          </constraints>
+          <control type="slider" format="number">
+            <popup>false</popup>
+          </control>
+        </setting>
+      </group>
+    </category>
+  </section>
+</settings>

@@ -1,0 +1,50 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: pl_PL\n"
+
+msgctxt "#32000"
+msgid "General"
+msgstr "Ogólne"
+
+msgctxt "#32001"
+msgid "Receiver address"
+msgstr "Adres amplitunera"
+
+msgctxt "#32002"
+msgid "IP address or host name of the receiver (control port 23)."
+msgstr "Adres IP lub nazwa amplitunera (port sterowania 23)."
+
+msgctxt "#32003"
+msgid "Volume scale"
+msgstr "Skala głośności"
+
+msgctxt "#32004"
+msgid "Absolute (0-98)"
+msgstr "Bezwzględna (0-98)"
+
+msgctxt "#32005"
+msgid "Relative (dB)"
+msgstr "Względna (dB)"
+
+msgctxt "#32006"
+msgid "Display time (s)"
+msgstr "Czas wyświetlania (s)"
+
+msgctxt "#32007"
+msgid "Show"
+msgstr "Pokazuj"
+
+msgctxt "#32008"
+msgid "Above 1080p"
+msgstr "Powyżej 1080p"
+
+msgctxt "#32009"
+msgid "Always"
+msgstr "Zawsze"
+
+msgctxt "#32010"
+msgid "The receiver overlays its own volume display on signals up to 1080p."
+msgstr "Amplituner sam pokazuje głośność na obrazie do 1080p."
+

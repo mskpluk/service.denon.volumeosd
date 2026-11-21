@@ -1,0 +1,50 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en_GB\n"
+
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Receiver address"
+msgstr ""
+
+msgctxt "#32002"
+msgid "IP address or host name of the receiver (control port 23)."
+msgstr ""
+
+msgctxt "#32003"
+msgid "Volume scale"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Absolute (0-98)"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Relative (dB)"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Display time (s)"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Show"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Above 1080p"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Always"
+msgstr ""
+
+msgctxt "#32010"
+msgid "The receiver overlays its own volume display on signals up to 1080p."
+msgstr ""
+
